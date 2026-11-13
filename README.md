@@ -1,3 +1,17 @@
+# DIO Agent — Personalização em Cibersegurança Defensiva
+
+Este projeto apresenta uma personalização do DIO Agent, desenvolvida como atividade do programa Santander/DIO, com foco no aprendizado e na aplicação de conceitos de cibersegurança defensiva.
+
+A personalização contempla os componentes Persona, AGENTS.md, Skills e Knowledge, incluindo a criação da skill `secure-code-review`, dedicada à identificação de vulnerabilidades, orientação de correções e análise de medidas de segurança.
+
+Como demonstração prática, foi desenvolvido um laboratório educacional em Python e SQLite, contendo uma aplicação intencionalmente vulnerável e sua versão corrigida, acompanhadas de testes funcionais e documentação das evidências.
+
+O trabalho foi realizado em Debian GNU/Linux 13, com auxílio do Codex CLI e do chatbot ChatGPT.
+
+A documentação original do DIO Agent foi preservada, reconhecendo sua utilização como base para esta personalização.
+
+---
+
 # 🤖 DIO Agent
 
 > Seu mentor com Inteligência Artificial para aprender mais e melhor na [DIO](https://dio.me).
