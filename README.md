@@ -8,6 +8,8 @@ Como demonstração prática, foi desenvolvido um laboratório em Python e SQLit
 
 O trabalho foi realizado em Debian GNU/Linux 13, com auxílio do Codex CLI e do chatbot ChatGPT.
 
+Em agradecimento à professora Isadora Ferrão pelas orientações e pelos conhecimentos compartilhados durante as aulas de cibersegurança do programa Santander/DIO.
+
 A documentação original do DIO Agent foi preservada, reconhecendo sua utilização como base para esta personalização.
 
 ---
@@ -155,8 +157,6 @@ dio-agent/
 ## Personalização — Cibersegurança defensiva
 
 Esta personalização foi desenvolvida como atividade do curso Santander/DIO, em ambiente **Debian GNU/Linux 13**, com uso do **Codex CLI**. O desenvolvimento e a documentação contaram com o auxílio do Codex CLI e do chatbot ChatGPT.
-
-Agradeço à professora Isadora Ferrão pelas orientações e pelos conhecimentos compartilhados durante as aulas de cibersegurança do programa Santander/DIO.
 
 Os arquivos [agent/persona.md](agent/persona.md) e [AGENTS.md](AGENTS.md) foram personalizados para orientar a atuação do agente em cibersegurança defensiva. Foi criada a skill [skills/secure-code-review/SKILL.md](skills/secure-code-review/SKILL.md), que orienta a identificação de vulnerabilidades, a avaliação de riscos, a proposição de correções e sua validação com evidências.
 
